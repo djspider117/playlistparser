@@ -1,7 +1,10 @@
 ﻿using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 
 namespace PlaylistParser
@@ -12,9 +15,17 @@ namespace PlaylistParser
         public string Artist { get; set; }
         public string TrackName { get; set; }
         public string Remix { get; set; }
+
+        public string GetTrackWithRemix()
+        {
+            if (string.IsNullOrEmpty(Remix))
+                return TrackName;
+
+            return $"{TrackName} ({Remix})";
+        }
     }
 
-    public class TrackInfoCollection : List<TrackInfo> { }
+    public class TrackInfoCollection : ConcurrentBag<TrackInfo> { }
 
     public class Parser
     {
@@ -27,6 +38,10 @@ namespace PlaylistParser
             {
                 var trackInfo = new TrackInfo();
                 var tsEnding = line.IndexOf(']');
+
+                if (tsEnding == -1)
+                    return;
+
                 var timestamp = line.Substring(1, tsEnding - 1);
                 var remaining = line.Remove(0, tsEnding + 1);
                 var split = remaining.Split('-');
@@ -68,7 +83,8 @@ namespace PlaylistParser
                     trackInfo.Timestamp = new TimeSpan(hours, minutes, sec);
                 }
 
-                rv.Add(trackInfo);
+                if (trackInfo != null)
+                    rv.Add(trackInfo);
             });
 
             return rv;
@@ -81,17 +97,44 @@ namespace PlaylistParser
         {
             var parser = new Parser();
             var trackInfos = parser.Parse("playlist.txt").OrderBy(x => x.Timestamp);
-            int i = 1;
+
+            var fps = 24;
+            var times = new List<int>();
+            var timesLines = File.ReadAllLines("times.txt");
+            foreach (var x in timesLines)
+            {
+                var q = x.Split(':');
+                var m = int.Parse(q[0]);
+                var s = int.Parse(q[1]);
+                var f = int.Parse(q[2]);
+
+                f += s * fps + m * 60 * fps;
+                times.Add(f);
+            }
+
+            var random = new Random();
+
+            var sb = new StringBuilder();
+            sb.AppendLine("Timestamp, Second, Artist, Song, VideoFrame");
             foreach (var x in trackInfos)
             {
-                Console.WriteLine($"------ Track {i++} ------");
-                Console.WriteLine($"Timestamp: {x.Timestamp}");
-                Console.WriteLine($"Artist: {x.Artist}");
-                Console.WriteLine($"Track Name: {x.TrackName}");
-                if (x.Remix != null)
-                    Console.WriteLine($"Remix: {x.Remix}");
+                var frame = times[random.Next(times.Count)];
+                sb.AppendLine($"[{x.Timestamp.Hours}:{x.Timestamp.Minutes}:{x.Timestamp.Seconds}], {x.Timestamp.TotalSeconds}, \"{x.Artist}\", \"{x.GetTrackWithRemix()}\", {frame}");
             }
-            Console.Read();
+
+            File.WriteAllText("yearmix2023.csv", sb.ToString());
+
+            //int i = 1;
+            //foreach (var x in trackInfos)
+            //{
+            //    Console.WriteLine($"------ Track {i++} ------");
+            //    Console.WriteLine($"Timestamp: {x.Timestamp}");
+            //    Console.WriteLine($"Artist: {x.Artist}");
+            //    Console.WriteLine($"Track Name: {x.TrackName} {x.Remix}");
+            //    if (x.Remix != null)
+            //        Console.WriteLine($"Remix: {x.Remix}");
+            //}
+            //Console.Read();
         }
     }
 }

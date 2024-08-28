@@ -1,5 +1,222 @@
-﻿[00:00:00] Artist 1 - Song 1 (Extended Mix)
-[00:01:40] Artist 2 - Song 2 (CIneva Remix)
-[02:01:12] Artist 4 - Song 4
-[12:34] Hello Jimmy - Yalalala
-[141:44] And - AnotherOne
+﻿[00:00:00] John Spider - 2023 (The Yearmix Intro)
+[00:02:23] Muvy - Rolling 
+[00:02:54] OTIOT - Can't Believe 
+[00:03:39] Hel slowed & That Girl - Hold Onto This 
+[00:05:11] Zack Roth - Wraith 
+[00:06:13] Boom Jinx with Nitrous Oxide & Einar K ft Vintage & Morelli - Breathing (David Broaders Remix) 
+[00:07:45] Beatsole x SebDell  - Twilight Atlas 
+[00:08:46] SMR LVE & That Girl - Euphoria 
+[00:09:48] VENIICE & Zashanell - 5AM (Mason Flint Remix) 
+[00:10:50] BetweenUs - Sonnar 
+[00:11:21] Chris Giuliano ft Taber - All Again (Extended Warehouse Mix) 
+[00:12:37] Redub - Motion 
+[00:13:38] Jean Boris - Everdreams (Original Mix) 
+[00:14:39] Brych - Believe 
+[00:15:10] Achilles (OZ) & Wintersix - Night Vision 
+[00:15:54] KayZen - Astronaut 
+[00:16:27] Ahmed Helmy - Glitch 
+[00:17:12] Armin van Buuren & R3HAB ft. Simon Ward - Love We Lost (Skytech Remix) 
+[00:18:28] Lena Storm - Avaris (Redspace Remix) 
+[00:18:59] Vivid & Xander Jones - Daydream 
+[00:19:30] Dennis Sheperd & Steve Brian - Summer Nights 
+[00:20:01] Mind of One - Redemption 
+[00:21:32] Beatsole x Eugenio Tokarev ft EKE (NL) - Nomads 
+[00:22:18] Alexander Popov & Ahmed Helmy - In Your Mind 
+[00:22:49] UUFO - Energize 
+[00:23:50] LURUM ft That Girl - Fall or Fly 
+[00:25:23] Anton By & U-Jeen - Identification 
+[00:26:40] Markus Schulz & Emma Hewitt - Till We Fade 
+[00:28:12] Tim Clark - Gateway 
+[00:29:13] Dan Stone & Sarah Mark - Paralyzed (Koyah Remix) 
+[00:30:12] Eugenio Tokarev & Bruno Oloviani - Believe 
+[00:30:58] Morgan Page ft. Lissie - Firewalk (VIVID Remix) 
+[00:32:07] Marsh & Leo Wood - Fall To Pieces 
+[00:32:37] DT8 Project & Susie Ledge - Reflections 
+[00:33:08] 3LAU ft XIRA - Easy 
+[00:34:25] NAASA - Winter Night (ISMAIL.M Remix) 
+[00:34:56] Shapov & NERAK - Valhalla 
+[00:35:27] Dave Neven pres Ocata ft Little Warrior - The One Inside 
+[00:35:58] Mind of One - Und ercover 
+[00:37:14] Armin van Buuren - Motive (Club Mix) 
+[00:38:15] Tasadi & KhoMha - Resistance 
+[00:38:45] Orjan Nilsen - 9910 
+[00:39:30] Ruslan Radriges - Keep On Dance 
+[00:40:31] BetweenUs - Escape 
+w/ Kay Wilder - Poison 
+[00:41:33] Vladislav Maximov ft 3YA - Heartbeat 
+[00:43:06] Hel_slowed & Amber Revival - If You Only Knew 
+[00:45:40] Kyau & Albert - Otherworld 
+[00:46:41] Luke Bond x Mark Eteson ft BullySongs - Only Love 
+[00:48:28] Alexander Popov with Ruslan Radriges & Annie Sollange - The Light 
+[00:49:28] Johan Gielen - Samba Brutal 
+[00:50:14] Maor Levi & Magnificence - Let You Go 
+[00:52:01] LURUM ft That Girl - The Way It Goes 
+[00:53:32] ilan Bluestone & Oliver Smith - Blue Eagle 
+[00:54:47] Matisse & Sadko & James French - Pull Me Through The Fire 
+w/ Vadim Bonkrashkov - Goodbye 
+[00:56:17] Jeff Ozmits - What Happens Next 
+[00:56:48] States Trigger - Exige (Stefanno b2b Julianno Remix) 
+[00:57:18] Chris Schweizer ft Sarah Howells - Company (Progressive Mix) 
+[00:58:43] Disfunktion & Kris O'Neil - U & Me 
+[00:59:06] Armin van Buuren ft Anne Gudrun - Love Is A Drug 
+[01:00:22] Yoel Lewis ft EL Waves - Just Like That 
+[01:01:37] Andrew Bayer with Gabriel & Dresden ft Sub Teal - Other Eye 
+[01:02:22] Hausman & Tara Louise - Forever 
+[01:03:22] Kanallia - Gypsophila 
+[01:04:07] Tommy Baynen - Nylon (Maywave Remix) 
+[01:05:07] Armin Van Buuren Feat Vanessa Campagna - Vulnerable 
+[01:06:37] Giuseppe Ottaviani & Avao - Echo In Your Mind 
+[01:07:20] Ummet Ozan - Continuum 
+[01:08:05] Jason Ross ft Dia Frampton - Never Alone 
+[01:09:04] Mully & Shvman with Hannah Gracelynn - Gone With The Wind (Eximinds Remix) 
+[01:10:49] Max Styler & Jem Cooke - Lose Your Mind 
+[01:11:19] Kebu - Perplexagon Part 3 (Daniel Kandi Remix) 
+[01:12:49] Patrik Humann with Amin Salmee - Burning Desire 
+[01:13:19] Avao - Drug In Me 
+[01:13:48] Sander Ferrar - Outer Space 
+[01:14:17] Orjan Nilsen & Mark Sixma pres nilsix - The Void
+[01:15:03] Davey Asprey - No Future 
+[01:16:01] Delerium ft. Sarah McLachlan - Silence (Andrew Rayel & Achilles Remix) 
+[01:16:30] Ben Gold & Ruben De Ronde - Bliksem 
+[01:16:59] Mino Safy & ESTO - Black Magic 
+[01:17:28] Hardwell feat. Bright Lights - Shotgun (It Ain't Over) 
+[01:18:12] Giuseppe Ottaviani & Alex Sonata & TheRio & Tishmal - Tears Of The Kingdom 
+[01:19:26] Eelke Kleijn - Transmission (Armin van Buuren Remix) 
+[01:20:10] Alexander Popov & Kitone - Fantasy 
+[01:21:09] Myon x Jhirst - The Predictable Unknown 
+[01:22:09] Ferry Corsten & CrowdandCtrl - Hades Can't Stop Me 
+[01:22:39] Daxson - First Light 
+[01:23:08] Achilles (OZ) & MatricK - Open Your Eyes 
+[01:23:38] Andrew Rayel - The Source of Harmony (FYH 350 Anthem) 
+[01:24:36] Calvin Harris & Ellie Goulding - Miracle (Mau P Remix) 
+[01:25:36] Andrew Rayel Feat Mike Schmid - Sleepwalking 
+[01:27:06] Awakend & April Bender - Find My Way (Hausman Remix) 
+[01:28:36] Ferry Corsten feat. Eric Lumiere & HALIENE - Another Sunrise (Elevven Remix) 
+[01:29:36] John Grand - Monolith 
+[01:30:36] Farius - Forever 
+[01:31:36] Alexander Turok & Ruslan Radriges - Blow It Up 
+[01:31:51] Coffee Candys - Far Away 
+[01:32:21] Alexander Popov & Heatbeat - VIVALDI 
+[01:33:19] Cory Goldsmith - Niagara 
+[01:33:48] Avao - Dance With Me 
+[01:34:17] David Forbes x Mayan Art - Fragments of Time 
+[01:34:32] Dory Badawi - The Brass 
+[01:35:01] Orjan Nilsen - Trippin 
+w/ Thomas Santosa - Heartbreak 
+[01:36:11] Andrew Rayel - Lifeline (Fisherman Remix) 
+[01:36:55] John Spider - Jay Fragibans
+[01:37:54] Alvi & Retrika & Alex Mueller - NFT 
+[01:38:38] Orjan Nilsen - Feels Like NRJ 
+[01:39:07] Topic - Lucid Dream (Giuseppe Ottaviani Remix) 
+[01:40:35] WHITEOUT - Stay Focused 
+[01:41:04] Cosmic Gate - Analog Feel (Greenhaven DJs Remix) 
+[01:41:34] Ummet Ozan - Ion 
+[01:41:48] Lange - Blade Runners 
+[01:42:17] Giuseppe Ottaviani - To The Stars
+[01:43:45] Denis Airwave & T'eira - My Freedom (Yuri Yavorovskiy Extended Mix) 
+[01:44:57] Nifra - Youphoria 
+[01:45:27] Corti Organ & That Girl - Changes (Extended Club Mix) 
+[01:46:38] Dennis Pedersen - Not Myself 
+[01:47:49] The WLT & Oana - Rainbow 
+[01:48:31] Rene Ablaze & MindX - Soulmate 
+[01:49:56] Luminn - Tempus (Somna Remix) 
+[01:50:53] Rubik ft Ava Silver - Shelter 
+[01:52:05] Daxson - Stargazing 
+[01:52:48] Lenny Pearce - Head, Shoulders, Knees & Toes 
+[01:53:17] Cory Goldsmith - LetYouDown 
+[01:53:45] Fisherman - Legacy 
+[01:54:14] James Kitcher & Adam Taylor - Utopia at Midnight (Sam Laxton Breaks Mix) 
+[01:55:39] Hardwell & Nicky Romero feat. MERYLL - I Wanna Dance 
+[01:56:07] AVAO - Show Me Love 
+[01:56:50] Jean Luc & Nick Jay - Ayla 2023 
+[01:57:47] H93 & Arkins - Addicted 
+[01:58:30] Denise Schneider - Parallel Universe 
+w/ Mino Safy - Arctic 
+[01:58:58] Simon Patterson - Ignition 
+[01:59:27] Davey Asprey - Edgerunners 
+[02:00:23] Lemon & Einar K - Anticipation (ReOrder Remix) 
+[02:01:48] Parnassvs - Daydream 
+[02:02:46] MATFlawless - Discovery (Instrumental) 
+[02:03:14] Parnassvs - Arrakis 
+[02:03:57] Ruslan Radriges & Tycoos - Full Of Stars 
+[02:04:26] Amazingblaze & Sirmeloo - Savage Mode (Belocca Remix) 
+[02:05:23] Benny Benassi & David Guetta - Satisfaction (Hardwell & Maddix 2023 Remix) 
+[02:06:06] VINNE - WUTT 
+[02:06:48] Mark Sixma - Decibels 
+[02:07:16] Bobby Neon - My Haus 
+[02:07:59] Tensteps & Sarah De Warren - Deja Vu 
+[02:08:42] Activa - I Wanted You 
+[02:09:10] Alex M.O.R.P.H. ft Marjan - Take My Breath 
+[02:10:35] Mario de Caine - Wonderland (John Spider Remix) 
+[02:11:44] Jaxson Watson & YOOMANS - Disco Tech 
+[02:12:27] KayZen - Braindance 
+[02:13:23] Steve Dekay - Played-A-Live (Rework) 
+[02:14:05] FOVOS & Lister - Flashing Lights 
+[02:15:22] Axis - Free Your Mind 
+[02:16:05] Vini Vici & Gabry Ponte - Damage 
+[02:17:00] Denis Airwave & T'eira - My Freedom (A.R.D.I. Dub) 
+[02:18:24] Skyvol & Aareth - The Escape 
+[02:19:34] Michael Milov - New Way 
+[02:20:15] Charlotte de Witte - High Street (Astrix Remix) 
+[02:21:15] Peetu S - Piranha 
+[02:21:49] Paul Denton - Siren (Original Mix) 
+[02:22:45] James Dymond - System Ready 
+[02:24:08] Allen Watts & Rene Ablaze Feat Cari - On My Way 
+[02:25:18] Gary McPhail - My Everything 
+[02:26:13] DT8 Project & Lustral ft Ricky Simmonds - Sunshine In Human Form (Renegade System Remix) 
+[02:27:49] Robert Curtis - The Butterfly Effect 
+[02:28:44] Incredia - Change My Truth 
+[02:30:49] Frank Waanders & Helena Kristiansson - Cascade 
+[02:32:12] MONSIEUR x AVIIZ - Close Your Eyes 
+[02:32:54] WHITEOUT - ADSR 
+[02:33:36] Lostly - Liquid NRG (Original Mix) 
+[02:34:30] Terminal (DE) - Just Rave (Stoneface & Terminal Remix) 
+[02:35:25] Black XS - Untousa 
+[02:35:53] Seedsy - Scramble 
+[02:36:30] Zerofloat - Enter Password 
+[02:36:44] Dave Zee ft Celinken - Traumwelten (Distorted Dreams Remix) 
+[02:37:12] Fisical Project - Invicta 
+[02:38:06] Mhammed el Alami - Reflections 
+[02:39:02] Mike Zaloxx & Sha ron Valerona - Turn Back The Time 
+[02:39:30] RAM & Garderffi with Diana Leah - Turn Back the Time (RAM's 3AM Mix) 
+[02:40:25] NG Rezonance with Avaxx & Coulson (UK) - Once Again 
+[02:41:20] Unbeat - Kick In 
+[02:41:47] Renegade System - Distress Call 
+[02:42:56] RAM - The Magic of Mexico 
+[02:43:37] XiJaro & Pitch with Adara - Invisible 
+[02:44:19] Jordan Suckley & Paul Webster - Help (Alex M Remix) 
+[02:45:14] South Of The Stars - Valour 
+[02:45:56] Richard Durand - Wunderbaum 
+[02:46:51] Steve Dekay - Black Magic 
+[02:47:32] Tempo Giusto - Soul Theory 
+[02:48:41] Cave x Paul Clark (UK) - Carnival 
+[02:49:22] Sali & Igor Dorin - Imagination 
+[02:50:17] Ben Gold & Allen Watts - Storm 
+[02:51:38] Hiromori Aso - Final Blow 
+[02:52:05] JFK - Good God (Mark Sherry Remix) 
+[02:52:47] Somnia - Charidiya 
+[02:53:13] Paul Clark (UK) & Nick The Kid - Boulda' 
+[02:53:41] Peetu S - You Broke Me 
+[02:54:09] Photographer - Subway 
+[02:55:04] The Prestige - Athnea 
+[02:56:00] Niko Zografos & Susie Ledge - Eyes 
+[02:57:23] Peetu S - Missing Tracks 
+[02:57:50] Starpicker & Denise Rivera - Can't Live Without You 
+[02:58:46] STANDERWICK - Live For The Weekend 
+[02:59:41] Haikal Ahmad - Dark Stories 
+[03:00:09] State 91 & Lyd14 - The Way Back Home 
+[03:02:00] Sneijder x Paul Denton - Speaker Freaker 
+[03:02:55] Asteroid - Forever Now 
+[03:04:33] Talla 2XLC - Phenomena 
+[03:05:28] Indecent Noise ft onTune - Transmission Control 
+[03:05:56] Somnia - Supernova 
+[03:06:37] Derb - Derbus (David Forbes Remix) 
+[03:07:04] Allen Watts & Paul Denton - ShellShock 
+[03:07:46] Somnia - Krishna 
+[03:08:13] Armin van Buuren & Vini Vici ft Alba - When We Come Alive 
+[03:08:55] Roman Messer x Somnia - The Edge 
+[03:09:36] Sam Laxton - Into Me 
+[03:10:31] South Of The Stars - Mechka 
+[03:10:58] Armin van Buuren - Computers Take Over The World (Maddix Remix) 
+[03:12:20] Marlon Hoffstadt A.K.A. DJ Daddy Trance - It's That Time 
+[03:13:10] Marlon Hoffstadt A.K.A. DJ Daddy Trance - It's That Time (Dimension Remix) 
